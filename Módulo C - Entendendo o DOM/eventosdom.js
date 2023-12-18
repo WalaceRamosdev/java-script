@@ -1,3 +1,3 @@
-function clicar(){
-    
+function clicar() {
+
 }
