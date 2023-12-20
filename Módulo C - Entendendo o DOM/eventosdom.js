@@ -17,3 +17,5 @@ function sair() {
     a.innerText = 'Saiu !'
     a.style.background = 'green'
 }
+
+//descanso
