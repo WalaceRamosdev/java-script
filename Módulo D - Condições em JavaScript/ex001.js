@@ -6,3 +6,5 @@ if('pais == Brasil'){
 } else {
     console.log('Você é estrangeiro')
 }
+
+//Último commit de 2023
