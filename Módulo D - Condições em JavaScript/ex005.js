@@ -16,5 +16,11 @@ switch(diaSem) {
         break
     case 4:
         console.log("Quinta-Feira") 
+        break
+    case 5:
+        console.log("Sexta-Feira")
+        break
+    case 6:
+        console.log("Sábado")
         break           
 }
