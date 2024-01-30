@@ -13,6 +13,7 @@ switch(diaSem) {
         break
     case 3:
         console.log("Quarta-Feira")
+        break
     case 4:
         console.log("Quinta-Feira")            
 }
