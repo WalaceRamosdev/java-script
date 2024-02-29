@@ -5,6 +5,8 @@ var data = new Date()
 var hora = data.getHours()
 msg.innerHTML = `Agora são ${hora} horas.`
 
+
+
 if (hora >= 0 && hora <12) {
     img.src = 'imagens001/foto01-manha.png'
     document.body.style.background = '#e2cd9f'
